@@ -53,7 +53,7 @@ A modern mortgage calculator and loan application system built with Next.js and 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/better-mortgage-calculator.git
+git clone https://github.com/Priyanshuraj21030/Medius
 ```
 
 2. Install dependencies:
