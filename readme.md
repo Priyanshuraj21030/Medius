@@ -3,7 +3,7 @@
 A modern mortgage calculator and loan application system built with Next.js and TypeScript, featuring a clean and intuitive user interface.
 
 ### Homepage
-![Homepage](homepage.png)
+![Homepage](homepa.png)
 
 ### Mortgage Calculator
 ![Mortgage Calculator](mortgage.png)
